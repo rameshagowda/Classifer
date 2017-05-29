@@ -7,4 +7,4 @@ K - fold cross validation
 
 AUC - ROC
 
-K-means clustering
+K-means clustering - Document classification
